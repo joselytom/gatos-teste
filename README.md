@@ -1,2 +1,2 @@
 # gatos teste
- primeiro repositorio do curso 
+ primeiro repositório do curso 
